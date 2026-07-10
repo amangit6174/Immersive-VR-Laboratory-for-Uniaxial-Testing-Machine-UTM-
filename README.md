@@ -62,10 +62,10 @@ https://www.researchgate.net/publication/405231679_An_Immersive_Virtual_Reality_
 
 ---
 
-## Author
+## Contributors
 
-**Aman Verma**
-**Amritesh Kumar**
+- **Aman Verma**
+- **Amritesh Kumar**
 
 B.Tech, Mining Engineering  
 Indian Institute of Technology (BHU), Varanasi
