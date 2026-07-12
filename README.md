@@ -66,6 +66,7 @@ https://www.researchgate.net/publication/405231679_An_Immersive_Virtual_Reality_
 
 - **Aman Verma**
 - **Amritesh Kumar**
+- **Anant Saxena**
 
 B.Tech, Mining Engineering  
 Indian Institute of Technology (BHU), Varanasi
